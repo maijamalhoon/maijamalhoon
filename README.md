@@ -15,13 +15,22 @@
 
 ---
 
-## 🚀 About Me
 
-I'm a developer who enjoys **building practical software that makes real work easier**.
+## 👨‍💻 About Me
 
-I regularly create applications, automation tools, business systems, and experiments using different technologies.
+I’m a **Software Engineer, Full-Stack Developer, and Product Builder** passionate about turning ideas into useful software.
 
-I don't just learn technologies — **I build with them.**
+I enjoy working across **web, mobile, desktop, backend, databases, and automation**, using the right technology for the problem rather than limiting myself to one stack.
+
+Most of my projects start with a simple question:
+
+**“Can this be made easier, faster, or better?”**
+
+So I build it.
+
+I’m constantly learning new technologies, experimenting with ideas, and creating tools that improve workflows and can eventually help other people too.
+
+> **Build with purpose. Improve relentlessly. Share what’s useful.**
 
 > 💡 **Build something useful → Improve it → Share it**
 
