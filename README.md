@@ -1,95 +1,147 @@
+<div align="center">
+
 # 👋 Hi, I'm Jamal Yaqoob
 
 ### Software Engineer • Full-Stack Developer • Builder
 
-I build **practical software, automation tools, and applications** that solve real problems and make everyday workflows easier.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=I+build+software+that+solves+real+problems.;I+love+turning+ideas+into+working+products.;Always+learning.+Always+building.+Always+improving." />
 
-I enjoy exploring new technologies, building things from scratch, improving my own workflow, and sharing useful projects with others.
+<br>
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maijamalhoon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
-## 🚀 What I Do
-
-* 🌐 Build modern web applications
-* 📱 Develop mobile applications
-* 🖥️ Create desktop & utility software
-* ⚙️ Build automation and productivity tools
-* 🔌 Develop APIs and backend systems
-* 🗄️ Design databases and business systems
-* 🧪 Experiment with new technologies and ideas
+</div>
 
 ---
 
-## 🛠️ Technologies I Work With
+## 🚀 About Me
 
-### Languages
+I'm a developer who enjoys **building practical software that makes real work easier**.
 
-`C++` `C#` `Java` `Kotlin` `JavaScript` `TypeScript`
+I regularly create applications, automation tools, business systems, and experiments using different technologies.
 
-### Frontend
+I don't just learn technologies — **I build with them.**
 
-`HTML` `CSS` `React` `Next.js`
-
-### Mobile
-
-`Flutter` `React Native` `Kotlin`
-
-### Backend
-
-`Node.js` `REST APIs`
-
-### Database
-
-`PostgreSQL` `Supabase` `SQL`
-
-### Tools
-
-`Git` `GitHub` `VS Code` `Figma`
+> 💡 **Build something useful → Improve it → Share it**
 
 ---
 
-## 🔨 What I'm Currently Building
+## 🧠 What I Build
 
-I regularly create new projects and tools that help me:
+<div align="center">
 
-* automate repetitive tasks
-* simplify business workflows
-* manage information more efficiently
-* solve problems I face in real life
-* experiment with new technologies
+| 🌐 Web Applications | 📱 Mobile Apps | 🖥️ Desktop Software |
+|:---:|:---:|:---:|
+| Modern & scalable web apps | Flutter & React Native | C++ & C# applications |
 
-Some of these projects are personal tools, while others are built with the goal of making them useful for other people too.
+| ⚙️ Automation | 💼 Business Systems | 🔌 Backend & APIs |
+|:---:|:---:|:---:|
+| Workflow & productivity tools | Finance & management systems | APIs, databases & services |
 
----
-
-## 🌟 Featured Projects
-
-> Check my pinned repositories below for the projects I'm currently most proud of.
+</div>
 
 ---
 
-## 💡 My Philosophy
+# 🛠️ Tech Stack
 
-> **Build something useful.
-> Make it better.
-> Share it with others.**
+### 💻 Languages
 
-I'm constantly learning, experimenting, and turning ideas into working software.
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,cs,java,kotlin,js,ts,python,html,css" />
+
+</div>
+
+### 🌐 Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+
+</div>
+
+### 📱 Mobile
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin" />
+
+</div>
+
+### ⚙️ Backend & Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,mongodb,mysql" />
+
+</div>
+
+### 🔧 Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,vercel" />
+
+</div>
 
 ---
 
-## 📈 GitHub
+# 🚀 Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maijamalhoon\&show_icons=true\&hide_border=true\&rank_icon=github)
+I build projects to solve problems, learn new technologies, and create tools that are actually useful.
+
+### ⭐ Featured Projects
+
+| Project | Description | Technologies |
+|--------|-------------|--------------|
+| **JALVORO** | Modern platform focused on business workflows and productivity | Next.js • TypeScript • Supabase |
+| **Jamal's Finance** | Personal finance & money management dashboard | Next.js • TypeScript • PostgreSQL |
+| **More Coming** | Constantly experimenting with new ideas | 🚧 |
+
+> 📌 Check my **pinned repositories** below to see my latest work.
 
 ---
 
-## 🤝 Let's Connect
+# 📊 GitHub Stats
 
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/)
-🌐 **Portfolio:** Coming soon
-📧 **Email:** Available on my GitHub profile
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=maijamalhoon&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maijamalhoon&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maijamalhoon&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maijamalhoon&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 🔥 Current Focus
+
+```text
+Building useful software
+        ↓
+Learning new technologies
+        ↓
+Automating repetitive work
+        ↓
+Improving existing systems
+        ↓
+Sharing useful projects
