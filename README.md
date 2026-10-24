@@ -1,119 +1,116 @@
 <!--
-  GitHub Profile README
-  Owner: maijamalhoon
-  Keep this profile honest: feature real repositories and tools you actively use.
+  Profile README for github.com/maijamalhoon
+  Built with GitHub-supported Markdown/HTML and external image cards.
+  GitHub strips custom CSS and JavaScript, so keep the layout lightweight and robust.
 -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0d1117,45:0969da,100:2f81f7&text=Jamal%20Yaqoob&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Software%20Developer%20%7C%20Product%20Builder&descAlignY=60&animation=fadeIn" alt="Jamal Yaqoob — Software Developer and Product Builder" />
-
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=700&height=45&lines=Building+useful+software%2C+one+problem+at+a+time.;Learning+by+building+real+projects.;Turning+ideas+into+practical+digital+products." alt="Animated introduction" />
-  </a>
-
-  <p>
-    <a href="https://github.com/maijamalhoon?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
-    <a href="https://github.com/maijamalhoon?tab=stars"><img src="https://img.shields.io/badge/Stars-My%20interests-8250DF?style=for-the-badge&logo=github&logoColor=white" alt="My stars" /></a>
-    <a href="https://github.com/maijamalhoon"><img src="https://komarev.com/ghpvc/?username=maijamalhoon&style=for-the-badge&color=0969DA&label=PROFILE+VIEWS" alt="Profile views" /></a>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:09090f,18:3b0764,42:6d28d9,68:0e7490,100:06b6d4&text=JAMAL%20YAQOOB&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=DEVELOPER%20%7C%20BUILDER%20%7C%20LIFELONG%20LEARNER&descSize=15&descAlignY=59&animation=twinkling" width="100%" alt="Jamal Yaqoob — Developer, Builder, Lifelong Learner" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=700&color=22D3EE&center=true&vCenter=true&width=720&height=55&lines=Turning+ideas+into+useful+software.;Building+real+projects+and+learning+every+day.;Clean+interfaces.+Thoughtful+engineering.;Curiosity+in%2C+better+products+out." width="100%" alt="Animated developer tagline" />
+  <br /><br />
+  <a href="https://github.com/maijamalhoon?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
+  <a href="https://github.com/maijamalhoon?tab=stars"><img src="https://img.shields.io/badge/OPEN-SOURCE%20INTERESTS-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Open source interests" /></a>
+  <a href="https://github.com/maijamalhoon"><img src="https://komarev.com/ghpvc/?username=maijamalhoon&style=for-the-badge&color=DB2777&label=PROFILE+VIEWS" alt="Profile views" /></a>
 </div>
 
 ---
 
-## About
-
-I'm **Jamal Yaqoob**, a developer focused on building practical digital products and improving real-world workflows.
-
-I enjoy taking an idea from concept to implementation—planning the user experience, writing code, working with data, fixing problems, and refining the result. My projects include business tools and web-based applications.
-
-- **Currently:** Building and improving my own software projects.
-- **Interested in:** Full-stack development, databases, automation, and AI.
-- **My approach:** Learn continuously, build deliberately, and improve through feedback.
-- **Goal:** Create reliable, useful software that solves real problems.
-
-> I value working software, thoughtful design, and steady progress over unnecessary complexity.
-
-## Featured Projects
-
 <div align="center">
-  <a href="https://github.com/maijamalhoon/Yaqoob-Enterprises">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maijamalhoon&repo=Yaqoob-Enterprises&theme=transparent&hide_border=true" alt="Yaqoob Enterprises repository card" />
-  </a>
-  <a href="https://github.com/maijamalhoon/PayPulse-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maijamalhoon&repo=PayPulse-&theme=transparent&hide_border=true" alt="PayPulse repository card" />
-  </a>
-  <a href="https://github.com/maijamalhoon/jalvoro-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maijamalhoon&repo=jalvoro-platform&theme=transparent&hide_border=true" alt="Jalvoro Platform repository card" />
-  </a>
-  <a href="https://github.com/maijamalhoon/precision-studio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maijamalhoon&repo=precision-studio&theme=transparent&hide_border=true" alt="Precision Studio repository card" />
-  </a>
+  <h2>✦ HELLO, WORLD! ✦</h2>
+  <p><strong>I’m Jamal — an independent developer building practical digital products.</strong></p>
+  <p>I like turning real problems into useful tools: understanding the workflow, shaping the experience, writing the code, and improving it step by step.</p>
 </div>
 
-<p align="center"><sub>Explore my repositories for the latest code, experiments, and project updates.</sub></p>
+## 🧭 A little about me
 
-## Tools & Technologies
+- **Building:** Web applications and tools that solve practical problems.
+- **Exploring:** Full-stack development, databases, automation, and AI-powered workflows.
+- **Care about:** Usability, maintainable code, thoughtful details, and dependable software.
+- **Learning style:** Build something real, test it, find what can be better, and iterate.
+- **Long-term direction:** Become a stronger product-minded software engineer by shipping meaningful projects.
+
+> 💡 My philosophy: make it useful first, make it clear, then make it excellent.
+
+## 🚀 Featured work
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,supabase,postgres,git,github,vscode,vercel&perline=7" alt="JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS, Node.js, Supabase, PostgreSQL, Git, GitHub, VS Code, and Vercel" />
+  <a href="https://github.com/maijamalhoon/Yaqoob-Enterprises"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maijamalhoon&repo=Yaqoob-Enterprises&theme=tokyonight&hide_border=true" width="100%" alt="Yaqoob Enterprises project card" /></a>
+  <br />
+  <a href="https://github.com/maijamalhoon/PayPulse-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maijamalhoon&repo=PayPulse-&theme=tokyonight&hide_border=true" width="100%" alt="PayPulse project card" /></a>
+  <br />
+  <a href="https://github.com/maijamalhoon/jalvoro-platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maijamalhoon&repo=jalvoro-platform&theme=tokyonight&hide_border=true" width="100%" alt="Jalvoro Platform project card" /></a>
+  <br />
+  <a href="https://github.com/maijamalhoon/precision-studio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maijamalhoon&repo=precision-studio&theme=tokyonight&hide_border=true" width="100%" alt="Precision Studio project card" /></a>
 </div>
 
-<p align="center"><sub>My toolkit evolves as projects and requirements change.</sub></p>
+<p align="center"><a href="https://github.com/maijamalhoon?tab=repositories"><strong>→ Browse all repositories</strong></a></p>
 
-## GitHub Dashboard
+## 🛠️ Technologies & tools
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=maijamalhoon&show_icons=true&rank_icon=github&hide_border=true&include_all_commits=true&theme=transparent" alt="GitHub statistics" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maijamalhoon&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages on GitHub" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs,supabase,postgres,git,github,vscode,vercel&perline=7" width="100%" alt="JavaScript, TypeScript, HTML, CSS, React, Next.js, Tailwind CSS, Node.js, Supabase, PostgreSQL, Git, GitHub, VS Code, and Vercel" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/FRONTEND-7C3AED?style=flat-square" alt="Frontend" />
+  <img src="https://img.shields.io/badge/BACKEND-0891B2?style=flat-square" alt="Backend" />
+  <img src="https://img.shields.io/badge/DATABASES-059669?style=flat-square" alt="Databases" />
+  <img src="https://img.shields.io/badge/TOOLS-DB2777?style=flat-square" alt="Tools" />
 </div>
 
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=maijamalhoon&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
-</div>
+<sub>These are tools I work with or explore across projects; the mix changes as I learn and build.</sub>
+
+## 📊 GitHub at a glance
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maijamalhoon&bg_color=00000000&color=2f81f7&line=2f81f7&point=8250df&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maijamalhoon&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight&hide_border=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" width="100%" alt="GitHub profile statistics" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maijamalhoon&layout=donut-vertical&langs_count=8&theme=tokyonight&hide_border=true" width="100%" alt="Top programming languages shown as a donut chart" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=maijamalhoon&theme=tokyonight&hide_border=true&ring=22D3EE&fire=F472B6&currStreakLabel=A78BFA" width="100%" alt="GitHub contribution streak" />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maijamalhoon&bg_color=1a1b27&color=c0caf5&line=22d3ee&point=f472b6&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Colourful GitHub contribution activity graph" />
 </div>
 
 <details>
-  <summary><strong>How to read these stats</strong></summary>
+  <summary><strong>📌 About the dashboard and charts</strong></summary>
   <br />
-  These cards are generated by community services and may occasionally load slowly or be unavailable. Language charts reflect detected repository code, not a complete measure of skill. Private-repository activity may not be shown.
+  The cards above are generated by community-hosted services, so an image can occasionally load slowly or be temporarily unavailable. Language charts describe code detected in repositories; they are not a ranking of skill. GitHub's own contribution settings affect what activity is visible.
 </details>
 
-## What I'm Working Toward
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Build</strong><br />
-      Create useful applications with clear interfaces and dependable foundations.
-    </td>
-    <td width="50%" valign="top">
-      <strong>Learn</strong><br />
-      Strengthen full-stack skills, database design, automation, and AI fundamentals.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Improve</strong><br />
-      Make existing projects easier to use, maintain, and extend.
-    </td>
-    <td width="50%" valign="top">
-      <strong>Share</strong><br />
-      Document progress and make my work easier for others to explore.
-    </td>
-  </tr>
-</table>
-
-## Connect
-
-- **GitHub:** [@maijamalhoon](https://github.com/maijamalhoon)
-- **Projects:** [Browse all repositories](https://github.com/maijamalhoon?tab=repositories)
+## 🎯 What I’m aiming for
 
 <div align="center">
-  <br />
-  <strong>Build with purpose. Keep learning. Make it better.</strong>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>💻 BUILD</h3>
+        Useful applications with clear, accessible interfaces.
+      </td>
+      <td align="center" width="50%">
+        <h3>🧠 LEARN</h3>
+        Stronger engineering fundamentals and better technical judgment.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🔧 IMPROVE</h3>
+        More reliable, maintainable, and polished projects.
+      </td>
+      <td align="center" width="50%">
+        <h3>🌱 GROW</h3>
+        Share progress, learn from feedback, and keep shipping.
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🤝 Find me on GitHub
+
+<div align="center">
+  <a href="https://github.com/maijamalhoon"><img src="https://img.shields.io/badge/GitHub-maijamalhoon-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://github.com/maijamalhoon?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Browse repositories" /></a>
   <br /><br />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0d1117,50:0969da,100:2f81f7" alt="" />
+  <strong>Thanks for stopping by — keep building things that matter.</strong>
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:06b6d4,35:0e7490,65:6d28d9,100:09090f" width="100%" alt="" />
 </div>
