@@ -90,7 +90,7 @@
   <br />
   <img src="https://streak-stats.demolab.com?user=maijamalhoon&theme=tokyonight&hide_border=true&ring=22D3EE&fire=F472B6&currStreakLabel=A78BFA" width="100%" alt="GitHub contribution streak" />
   <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maijamalhoon&bg_color=1a1b27&color=c0caf5&line=22d3ee&point=f472b6&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Colourful GitHub contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maijamalhoon&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Colourful GitHub contribution activity graph" />
 </div>
 
 <details>
