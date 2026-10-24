@@ -46,18 +46,40 @@
 
 <p align="center"><a href="https://github.com/maijamalhoon?tab=repositories"><strong>→ Browse all repositories</strong></a></p>
 
-## 🛠️ Technologies & tools
+## 🧰 Languages, frameworks & tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LANGUAGES-7C3AED?style=for-the-badge" alt="Programming languages" />
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,java,kotlin,js,ts,python,dart&perline=6" width="100%" alt="C++, C sharp, .NET, Java, Kotlin, JavaScript, TypeScript, Python, and Dart" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/WEB%20%26%20APP%20DEVELOPMENT-0891B2?style=for-the-badge" alt="Web and app development" />
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,express,flutter,reactnative&perline=6" width="100%" alt="HTML, CSS, React, Next.js, Tailwind CSS, Node.js, Express, Flutter, and React Native" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/DATABASES%20%26%20BACKEND-059669?style=for-the-badge" alt="Databases and backend" />
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,mysql,sqlite,firebase&perline=6" width="100%" alt="PostgreSQL, Supabase, MongoDB, MySQL, SQLite, and Firebase" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/DEVOPS%20%26%20DEVELOPER%20TOOLS-DB2777?style=for-the-badge" alt="DevOps and developer tools" />
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,powershell,vscode,visualstudio,vercel,figma,postman,tauri&perline=6" width="100%" alt="Docker, Git, GitHub, Linux, Bash, PowerShell, VS Code, Visual Studio, Vercel, Figma, Postman, and Tauri" />
+</p>
+
+### ✨ Technology areas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs,supabase,postgres,git,github,vscode,vercel&perline=7" width="100%" alt="JavaScript, TypeScript, HTML, CSS, React, Next.js, Tailwind CSS, Node.js, Supabase, PostgreSQL, Git, GitHub, VS Code, and Vercel" />
-  <br /><br />
-  <img src="https://img.shields.io/badge/FRONTEND-7C3AED?style=flat-square" alt="Frontend" />
-  <img src="https://img.shields.io/badge/BACKEND-0891B2?style=flat-square" alt="Backend" />
-  <img src="https://img.shields.io/badge/DATABASES-059669?style=flat-square" alt="Databases" />
-  <img src="https://img.shields.io/badge/TOOLS-DB2777?style=flat-square" alt="Tools" />
+  <img src="https://img.shields.io/badge/C%20%2B%20%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23%20%2F%20.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C sharp and .NET" />
+  <img src="https://img.shields.io/badge/Java%20%2F%20Kotlin-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java and Kotlin" />
+  <img src="https://img.shields.io/badge/JavaScript%20%2F%20TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="JavaScript and TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flutter%20%2F%20Dart-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter and Dart" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/SQL%20%2F%20PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL and PostgreSQL" />
 </div>
 
-<sub>These are tools I work with or explore across projects; the mix changes as I learn and build.</sub>
+<sub>My toolkit spans programming languages, web and mobile development, databases, desktop apps, containers, and developer tooling. I keep expanding it through hands-on projects.</sub>
 
 ## 📊 GitHub at a glance
 
